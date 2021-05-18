@@ -1,7 +1,7 @@
 Algiers Black Madrid Paris Istanbul Cairo
 Atlanta Blue Chicago Miami Washington
 Baghdad Black Tehran Istanbul Cairo Riyadh Karachi
-Bangkok Red Kolkata Chennai Jakarta HoChiMinhCity HongKong
+Bangkok Red Kolkata Chennai Jakarta HoChiMinhCity HongKong 
 Beijing Red Shanghai Seoul
 Bogota Yellow MexicoCity Lima Miami SaoPaulo BuenosAires
 BuenosAires Yellow Bogota SaoPaulo
